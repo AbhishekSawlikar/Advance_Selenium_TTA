@@ -1,0 +1,12 @@
+pytest
+selenium
+pytest-html
+pytest-xdist
+allure-pytest
+selenium-page-factory
+openpyxl
+pyyaml
+faker
+mysql-connector-python
+python-dotenv
+pytest-reportportal
